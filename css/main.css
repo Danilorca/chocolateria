@@ -9160,7 +9160,7 @@ nav.navbar {
 }
 
 .container__form {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#1903035f)), url(/imagenes/footer.jpg);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#1903035f)), url(../imagenes/footer.jpg);
   background-image: linear-gradient(#1903035f), url(/imagenes/footer.jpg);
   height: 526px;
   width: 100%;
